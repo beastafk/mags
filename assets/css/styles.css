@@ -1,0 +1,27 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	outline: none;
+	text-decoration: none;	
+	border: none;
+}
+body {
+	font-size: 13px;
+	font-family: "Trebuchet MS";
+	color: #333333;
+}
+.clear {
+	clear: both;
+	overflow: hidden;
+	height: 0;
+	line-height: 0;
+	font-size: 0;
+}
+.center {
+	width: 220px;
+	margin: 0 auto;	
+}
+.errors {
+	color: red;	
+}
+.register, .logout {	margin-left: 80px; }
